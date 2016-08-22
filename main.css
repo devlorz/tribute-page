@@ -1,0 +1,12 @@
+body {
+    margin-top: 60px;
+}
+
+.jumbotron {
+    color: white;
+    background-color: indianred;
+}
+
+cite {
+    color: white;
+}
